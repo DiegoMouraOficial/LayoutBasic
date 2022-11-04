@@ -2,21 +2,20 @@
 
 <p align="center">Projeto de Layout básico usando o HTML e CSS</p>
 
-
-<h3> 🤝 Contributing </h3>
+<h3> 🤝 Contribuindo </h3>
 <p>
-This repository was created for study purposes. Feel free to contribute!
+    Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
-If I helped you in any way, I'd be happy to know. 😜
+    Se te ajudei de alguma forma, ficaria feliz em saber. 😜
 
-If you know someone who identifies with this content, be sure to share.
+    Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
 
 </p></br>
 
-> <h3>if possible:</h3>
+> <h3>Se possível:</h3>
 
-- ⭐️ Give Star to the project
-- 🐛 Find and report issues
+- ⭐️ Dê Star para o projeto
+- 🐛 Encontrar e relatar issues
 </p>
 
-Developed 😜 by [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
+Disponibilizado 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
