@@ -4,11 +4,11 @@
 
 <h3> 🤝 Contribuindo </h3>
 <p>
-    Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
+Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
 
-    Se te ajudei de alguma forma, ficaria feliz em saber. 😜
+Se te ajudei de alguma forma, ficaria feliz em saber. 😜
 
-    Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
+Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
 
 </p></br>
 
