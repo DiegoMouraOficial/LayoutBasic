@@ -1,48 +1,73 @@
-*{
-    margin:0;
+* {
+    margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
-
-h1{
-    text-align: center;
-}
-
-body{
+  }
+  
+  body {
     font-family: sans-serif;
-}
-
-.header {
-    background-color: grey;
-    background-color:green;
+  
+  }
+  
+  h1, h2, h3, h4, p {
+    margin-bottom: 15px;
+  }
+  
+  .header {
+    background-image: url(../img/fundo.jpg);
+    background-size: cover;
     text-align: center;
     padding: 50px 0;
-    font-size: 40px;
-}
-
-.container{
+    box-shadow: 0 0 10px black;
+  }
+  
+  .container {
     display: flex;
-}
-
-.navbar{
-    width: 30%;
-    background: rgb(187, 201, 187);
+  }
+  
+  .navbar {
+    width: 20%;
     padding: 30px;
-}
-
-.content{
-    width: 70%;
-    background: rgb(222, 231, 222);
-    padding: 30px;
-}
-
-.footer{
-    background-color:green;
+    background: #b9e2b9;
+  }
+  
+  .navbar ul {
+    list-style: none;  
+  }
+  
+  .navbar ul li {
+    border-radius: 5px 5px;
+    background-color:#000;
+    margin-bottom: 20px;
+    padding: 20px;
     text-align: center;
-    padding: 20px 0;
-}
-
-.video{
-    padding: 5px 0px;
-    
-}
+  }
+  
+  .navbar ul li a {
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 14px;
+  }
+  
+  .content {
+    width: 80%;
+    height: 63vh;
+    background: #e6f3e3;
+    box-shadow: 5px 5px 0 rgb(228, 228, 228);
+    padding: 15px 15px;
+    border-radius: 10px 10px;
+    margin: 10px 10px 10px 10px;
+  }
+  
+  .footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    margin-top: auto;
+    background-color: #000;
+    color: #06a71b;
+    text-align: center;
+    padding: 10px 0;
+  }
