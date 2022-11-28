@@ -2,6 +2,12 @@
 
 <p align="center">Projeto de Layout básico usando o HTML e CSS</p>
 
+<br>
+
+<p align="center">
+        <img src="img/LayoutBasico.jpg"alt="Projeto Layout Básico">
+</p>
+
 <h3> 🤝 Contribuindo </h3>
 <p>
 Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
