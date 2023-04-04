@@ -1,6 +1,6 @@
 <img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
 
-<h1> 📚 Layout Basic </h1>
+<h1> 📚 Layout Básico </h1>
 
 <p align="justify">
 Este projeto tem como objetivo apresentar conceitos intermediários de HTML e CSS, tais como a utilização de tags como Header, Section, Nav, Article e Footer, além da adição de páginas e o entendimento de Iframe.
