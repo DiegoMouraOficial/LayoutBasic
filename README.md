@@ -1,7 +1,22 @@
-<h1 align="center"> 📚 Layout Basic </h1>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=%20FINALIZADO&color=critical&style=for-the-badge"/>
 
-<p align="center">Projeto de Layout básico usando o HTML e CSS intermediário</p>
+<h1> 📚 Layout Basic </h1>
 
+<p align="justify">
+Este projeto tem como objetivo apresentar conceitos intermediários de HTML e CSS, tais como a utilização de tags como Header, Section, Nav, Article e Footer, além da adição de páginas e o entendimento de Iframe.
+</p>
+
+<p align="justify">
+O projeto também apresenta o uso de seletores e combinadores, além de text styles e propriedades como Visibility, Opacity e Display None, para melhorar a aparência e a interatividade do site.
+</p>
+
+<p align="justify">
+Outros conceitos importantes, como Overflow, Pseudo-classes e Pseudo-elementos e as diferenças entre as posições fixed, absolute e relative também são abordados neste projeto.
+</p>
+
+<p align="justify">
+O conhecimento adquirido com este projeto é fundamental para quem deseja se tornar um desenvolvedor web completo e criar sites mais avançados e interativos. Com a utilização das técnicas apresentadas aqui, é possível criar páginas mais atraentes e melhorar a experiência do usuário, além de entender melhor como funcionam as linguagens de programação web.
+</p>
 <br>
 
 <p align="center">
