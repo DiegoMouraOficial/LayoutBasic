@@ -23,37 +23,25 @@ O conhecimento adquirido com este projeto é fundamental para quem deseja se tor
         <img src="img/LayoutBasico.jpg"alt="Projeto Layout Básico">
 </p>
 
-## :stuck_out_tongue_winking_eye: Qual foi o objetivo?
-<p> Treinar HTML e CSS intermediário</p>
-<ul>
-  <li>Tag Header.</li>
-  <li>Tags Section, Nav e Article.</li>
-  <li>Tag Footer.</li>
-  <li>Adicionando páginas.</li>
-  <li>Entendendo Iframe.</li>
-  <li>Seletores e combinadores.</li>
-  <li>Text Styles.</li>
-  <li>Visibility, Opacity e Display None.</li>
-  <li>Overflow.</li>
-  <li>Pseudo-classes e Pseudo-elementos</li>
-  <li>Position fixed, absolute e relative.</li>
-</ul>
+## 🤝 Faça sua Contribuição 
+<p align="justify">
+Esse repositório foi criado com o objetivo de estudar e aprimorar os conhecimentos em HTML5 e CSS3. Gostaría de convidá-los (as) a contribuir para o projeto, afinal, juntos podemos criar algo ainda melhor!
 
+Caso tenha encontrado algo que tenha sido útil para você, ficarei muito feliz em saber que o meu trabalho está sendo útil para outras pessoas. Compartilhe também com seus amigos e conhecidos que possam se interessar pelo conteúdo.
 
-## 🤝 Contribuindo
-<p>
-Este repositório foi criado para fins de estudo. Fique a vontade para contribuir!
-
-Se te ajudei de alguma forma, ficaria feliz em saber. 😜
-
-Se você conhece alguém que se identifica com esse conteúdo, não deixe de compartilhar.
-
-</p></br>
-
-> ## Se possível:
-
-- ⭐️ Dê Star para o projeto
-- 🐛 Encontrar e relatar issues
+Agradeço por sua visita e espero que possamos continuar a evoluir juntos!
 </p>
+</br>
 
-Disponibilizado 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
+> ## Se possível
+<p align="justify">
+    
+- 🐛 Encontre e relate issues para que possamos corrigir eventuais bugs e melhorar a experiência do usuário.</br>
+
+- ⭐️ Se gostou do nosso trabalho, por favor, considere dar uma estrela ao projeto.</br>
+
+- 🤝 Sua contribuição é muito importante para nós e nos ajuda a continuar evoluindo. Agradecemos a sua visita e esperamos contar com a sua ajuda para tornar o projeto ainda melhor!
+</p>
+</br>
+
+Desenvolvido 😜 por [Diego Moura dos Santos](https://www.linkedin.com/in/diegomouradossantos/).
