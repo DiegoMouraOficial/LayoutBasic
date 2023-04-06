@@ -20,7 +20,7 @@ O conhecimento adquirido com este projeto é fundamental para quem deseja se tor
 <br>
 
 <p align="center">
-        <img src="img/LayoutBasico.jpg"alt="Projeto Layout Básico">
+        <img src="img/2023-04-06-19-33-32.gif"alt="Projeto Layout Básico">
 </p>
 
 ## 🤝 Faça sua Contribuição 
